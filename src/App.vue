@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Psitron GEN AI LLM Model</h1>
+    <h1>Psitron MLops and LLM Ops GEN AI Model</h1>
 	<h2>Upload your data to make predictions</h2>
     <img
       alt="Vue logo"
